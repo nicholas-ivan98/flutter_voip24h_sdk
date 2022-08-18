@@ -1,6 +1,6 @@
 # Flutter Voip24h-SDK 
 
-[![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/flutter_call_test)
+[![pub package](https://img.shields.io/pub/v/http.svg)](https://pub.dev/packages/flutter_voip24h_sdk)
 
 ## Mục lục
 
